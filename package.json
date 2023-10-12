@@ -23,7 +23,7 @@
     "react-notification-alert": "0.0.12",
     "react-router": "5.2.0",
     "react-router-dom": "5.2.0",
-    "react-scripts": "^3.4.4",
+    "react-scripts": "^5.0.1",
     "reactstrap": "8.4.1",
     "sweetalert2": "^10.14.1"
   },
