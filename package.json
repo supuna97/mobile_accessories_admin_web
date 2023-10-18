@@ -7,7 +7,7 @@
   "dependencies": {
     "axios": "^0.21.2",
     "bootstrap": "4.5.0",
-    "chart.js": "2.9.3",
+    "chart.js": "2.9.4",
     "gulp": "^4.0.2",
     "gulp-append-prepend": "1.0.8",
     "history": "4.10.1",
